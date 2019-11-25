@@ -1,12 +1,8 @@
 # Classic Arcade Game Clone
 
-Project #3 of the Udacity Front-End Nanodegree.
+the game provided with visual assets and a game loop engine; using these tools to add a number of entities to the game including the player characters and enemies to recreate a classic game.
 
-![screenshot](/screenshot.png)
-
-## Play the game live
-
-[https://todmcchesney.github.io/classic-arcade-game-clone/](https://todmcchesney.github.io/classic-arcade-game-clone/)
+Game objects (player and vehicles) are implemented using JavaScript object-oriented programming features.
 
 ## Running the application locally
 
