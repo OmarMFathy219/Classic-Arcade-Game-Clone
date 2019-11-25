@@ -1,0 +1,25 @@
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: 'Chango';
+    text-align: center;
+}
+
+.title {
+    margin-bottom: 0;
+}
+
+.button {
+    padding: 5px 10px;
+    border-radius: 5px;
+    background-color: #5fc148;
+    color: #fff;
+    font-family: 'Chango';
+}
+
+#rules {
+    display: none;
+    width: 700px;
+    margin: 0 auto;
+    text-align: left;
+}
